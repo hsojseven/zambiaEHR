@@ -17,12 +17,13 @@ they are simply not caught soon enough, but with an EHR, it could be possible to
 working and enjoying life.
 
 
-The source files
+The source files                                                                                                                                                
 Vista EHR - https://worldvista.org/AboutVistA
 YottaDB - https://yottadb.com/product/
 
-The hardware
+The hardware                                                                                                                                                              
 Single board x86 architecture - https://www.amazon.com/Atomic-Pi-High-Speed-Peripheral/dp/B07N298F2B                                                          
 tablet - https://tinyurl.com/y5msdww4 (amazon link)                                                                                                                       
+                                                                                                                                                                                
 Note: though really any x86 board will work. for the first implementation something cheap and durable is what I went with.                                                
 Note: for nurses I plan to use tablets so they can bring the application with them to patients, effectively any root-able tablet will work (though cheaper is better)
