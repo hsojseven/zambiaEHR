@@ -5,7 +5,7 @@ EHR for my trips to Chongwe Zambia, using VistA and YottaDB
 those who could not afford it, as a normal surgery costs anywhere from $800 to $2000 or can be simply impossible since lenses are not easy to get a hold of there.
 My task this first trip was to do paperwork and ensure that there was no backups so we could keep our number of surgeries as high as possible (we did 105 that year).
 This sparked something in me because we spent nearly 14 hours a day doing government required paperwork for only 20 some patients. I decided that my skills in computing
-and IT could be useful for increasing efficiency and also reducing the number of errors per sheet. Aver the next two years I managed to absorb many more clinic roles to 
+and IT could be useful for increasing efficiency and also reducing the number of errors per sheet. After the next two years I managed to absorb many more clinic roles, to 
 where now I an in charge of basically everything but the surgery itself. All of this so I could learn how to impliment something that works for the people over there as
 well as for the many visiting doctors and nurses.
 
