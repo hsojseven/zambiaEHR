@@ -18,7 +18,7 @@ working and enjoying life.
 
 
 The source files                                                                                                                                                
-Vista EHR - https://worldvista.org/AboutVistA
+Vista EHR - https://worldvista.org/AboutVistA                                                                                                                       
 YottaDB - https://yottadb.com/product/
 
 The hardware                                                                                                                                                              
