@@ -23,5 +23,6 @@ YottaDB - https://yottadb.com/product/
 
 The hardware
 Single board x86 architecture - https://www.amazon.com/Atomic-Pi-High-Speed-Peripheral/dp/B07N298F2B
-# though really any x86 board will work. for the first implementation something cheap and durable is what I went with.
-# for nurses I plan to use tablets so they can bring the application with them to patients, effectively any root-able tablet will work
+tablet - https://tinyurl.com/y5msdww4 (amazon link)
+Note: though really any x86 board will work. for the first implementation something cheap and durable is what I went with.
+Note: for nurses I plan to use tablets so they can bring the application with them to patients, effectively any root-able tablet will work (though cheaper is better)
